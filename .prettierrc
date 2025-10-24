@@ -7,6 +7,5 @@
   "bracketSpacing": true,
   "arrowParens": "avoid",
   "quoteProps": "as-needed",
-  "vueIndentScriptAndStyle": true,
-  "embeddedLanguageFormatting": "auto"
+  "vueIndentScriptAndStyle": true
 }
